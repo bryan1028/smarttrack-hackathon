@@ -1,7 +1,7 @@
 SmartTrack - Business Expense & Income Tracker
 🏆 Vibe Coding Hackathon Submission
 Team: [Bryan/Zist Shopping]
-Live link: https://app.netlify.com/projects/smarttrackhackathon
+Live link: https://smarttrackhackathon.netlify.app/
 
 Challenge: Retail & Ecommerce - Lightweight Storefront Builder
 Theme: Building Human-Centered, Joy-Driven Solutions Using AI and Low-Code Tools
@@ -274,16 +274,15 @@ Keep components small and focused
 Developer: [Bryan Mwalwala]
 Email: [mwalwalabryan@gmail.com]
 GitHub: [github.com/bryan1028]
-Demo: [https://app.netlify.com/projects/smarttrackhackathon]
+Demo: [https://smarttrackhackathon.netlify.app/]
 
 📄 License
 MIT License - feel free to use, modify, and distribute.
 
 🙏 Acknowledgments
 
-Vibe Coding Hackathon organizers
 PLP Community for the opportunity
-AI tools that inspired the voice and photo features
+Claude AI that inspired the voice and photo features
 Open source community for React and Tailwind CSS
 
 
