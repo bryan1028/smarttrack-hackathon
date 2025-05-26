@@ -324,7 +324,7 @@ const SmartTrack = () => {
       <input
         ref={fileInputRef}
         type="file"
-        accept="image/*
+        accept="image/*"
         capture="environment"
         onChange={handleFileChange}
         className="hidden"
