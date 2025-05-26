@@ -287,3 +287,8 @@ Open source community for React and Tailwind CSS
 
 Built with ❤️ for the #1MillionDevs Movement
 "Empowering small businesses, one transaction at a time."
+
+<img width="689" alt="Screenshot 2025-05-26 at 14 28 38" src="https://github.com/user-attachments/assets/973f3bd6-0a99-4f44-b76d-12469bebf4be" />
+
+
+
